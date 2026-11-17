@@ -10,7 +10,7 @@
 
 | Game | Cheats | Game version | Download |
 |---|---|---|---|
-| Front Mission 3 Remake | +10 | 1.1.1 (Steam) | [Latest release](https://github.com/NTGBlack/fm3r-trainer/releases/latest) · [Details](https://github.com/NTGBlack/fm3r-trainer) |
+| Front Mission 3 Remake | +11 | 1.1.1 (Steam) | [Latest release](https://github.com/NTGBlack/fm3r-trainer/releases/latest) · [Details](https://github.com/NTGBlack/fm3r-trainer) |
 
 Every trainer: English · ไทย · 中文 · 日本語 · 한국어
 
